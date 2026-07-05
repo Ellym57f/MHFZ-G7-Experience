@@ -2,7 +2,7 @@
 Repository of the G7 Experience and G7 ReXperience patches. Both of these aim to rebalance MHFZ and restore the original challenges.
 
 ## A Little Bit of History
-Many players may have noticed that the progression in MHFZ got sped up to make players reach G Rank as fast as possible. Contrary to most MH games, this means that the Early Rank and High Rank experience is trivialized completely, unless you really take your time. However, even then, most monsters don't pose a challenge at all until you reach High Rank5 or the Supremacy quests.
+Many players may have noticed that the progression in MHFZ got sped up to make players reach G Rank as fast as possible. Contrary to most MH games, this means that the Early Rank and High Rank experience is trivialized completely, unless you really take your time. However, even then, most monsters don't pose a challenge at all until you reach HR5 or the Supremacy quests.
 
 This wasn't always the case. After G7, Capcom started tweaking the values of the monsters and making them easier for Early Rank players as the updates went on, with the intention of helping newer players catch up with the rest of the playerbase. In doing so, however, early monsters are now beatable in under 5 or 10 minutes. Some of them that should be imposing and a wall for the players suffer from this as well, making fights much shorter than they actually were back in the day.
 While players may want to reach G Rank as if it were a stroll in the park, others may want a slower-paced gameplay. That's why I made two patches for this purpose.
