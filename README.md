@@ -14,3 +14,5 @@ If you choose to go down this path, be prepared. Monsters will take much longer.
 **__G7 ReXperience__** is the alternative patch that I made after carefully reviewing the original stats. While the first patch is as faithful as possible, this also means that some of Capcom's questionable stat decisions are kept as is. ReXperience is the same version but with a few values tweaked to make some fights a bit fairer, let's just say. You might notice this when comparing the Early Gurenzeburu fight from both patches.
 
 ## So, will you go back to Monster Hunter Frontier roots?
+
+**IMPORTANT!!!**: These patches only affect the monsters and do not change anything from the quests themselves nor their line-up. **Your progression may differ depending if you're playing on Rain or Renewal**, but both patches are fully compatible with these servers. 
