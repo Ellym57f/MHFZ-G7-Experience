@@ -21,11 +21,10 @@ If you choose to go down this path, be prepared. Monsters will take much longer.
   <img src="https://github.com/user-attachments/assets/cd34cc49-42ba-47a5-8143-4771997aae53" />
 </p>
 
-# CHANGELOG v0.5: G7 Experience / G ReXperience
+# CURRENT CHANGELOG (v0.5)
 
 This is the changelog of all the stat restorations that were made to both patches. 
 
-### Legend
 * **`—`**: No changes.
 * **`x → y`**: Value changed from the original (`x`) to the new adjusted value (`y`).
 * **`*`**: Features alternative overrides in **ReXperience** (see the Notes column).
