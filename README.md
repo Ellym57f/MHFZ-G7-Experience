@@ -16,3 +16,7 @@ If you choose to go down this path, be prepared. Monsters will take much longer.
 ## So, will you go back to Monster Hunter Frontier roots?
 
 **IMPORTANT!!!**: These patches only affect the monsters and do not change anything from the quests themselves nor their line-up. **Your progression may differ depending if you're playing on Rain or Renewal**, but both patches are fully compatible with these servers. 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cd34cc49-42ba-47a5-8143-4771997aae53" />
+</p>
