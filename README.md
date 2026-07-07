@@ -116,7 +116,7 @@ This is the changelog of all the stat restorations that were made to both patche
 | | Gou | 1.8 → 2 | 3 → 5.5 | — | — | |
 | **Lao Shan-Lung** | Low Rank | 0.4 → 1 | 1.3 → 1.5 | — | 0.7 → 1 | |
 | | High Rank | 0.7 → 1.3 | 1.6 → 1.7 | — | — | |
-| | Supremacy | 1.05 → 1.2 | 4.8 → 8* | — | — | *ReXperience DMG:* 5.2 |
+| | Gou | 1.05 → 1.2 | 4.8 → 8* | — | — | *ReXperience DMG:* 5.2 |
 | **Lunastra** | Low Rank | 0.4 → 1 | 0.7 → 1.45 | 0.9 → 0.8 | 0.8 → 1 | |
 | | Gou | 0.65 → 0.8 | 3.5 → 5.8 | — | — | |
 | **Meraginasu** | Gou | 1.8 → 2.2 | 4 → 5 | — | — | |
