@@ -190,7 +190,7 @@ This is the changelog of all the stat restorations that were made to both patche
 * Felyne
 * Genprey
 * Hornetaur
-* Hypnocatrice [26]
+* Hypnocatrice (Henshu)
 * Ioprey
 * Melynx
 * Mosswine
